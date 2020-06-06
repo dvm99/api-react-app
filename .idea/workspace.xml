@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f564b7ee-3a5c-4cf5-99f6-80ae389fbcc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../api-comparison-app/react-app" />
+  </component>
+  <component name="ProjectId" id="1ciQ6omEWblDHrp7OSJxcHRqrPw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react-app/src/APIs/rest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-app/src/APIs/rest" />
+      <recent name="$PROJECT_DIR$/react-api/src/APIs/rest" />
+      <recent name="$PROJECT_DIR$/react-api/src/APIs/graph" />
+      <recent name="$PROJECT_DIR$/react-api/src/APIs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-app/src/APIs/rest" />
+      <recent name="$PROJECT_DIR$/react-api/src/APIs/graph" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f564b7ee-3a5c-4cf5-99f6-80ae389fbcc0" name="Default Changelist" comment="" />
+      <created>1591008761827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591008761827</updated>
+      <workItem from="1591008763324" duration="24470000" />
+      <workItem from="1591078104796" duration="6730000" />
+      <workItem from="1591349118169" duration="9652000" />
+      <workItem from="1591449471021" duration="5961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2525" y="751" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591017450437">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2525" y="751" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591017450437" />
+    <state x="2645" y="892" width="640" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591020758055">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2645" y="892" width="640" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591020758055" />
+    <state x="2713" y="848" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591088249190">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2713" y="848" width="424" height="484" key="FileChooserDialogImpl/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591088249190" />
+    <state width="1840" height="632" key="GridCell.Tab.0.bottom" timestamp="1591036555376">
+      <screen x="5760" y="480" width="1920" height="1080" />
+    </state>
+    <state width="1840" height="632" key="GridCell.Tab.0.bottom/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591021733851" />
+    <state width="1840" height="632" key="GridCell.Tab.0.bottom/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@5760.480.1920.1080" timestamp="1591036555376" />
+    <state width="1840" height="632" key="GridCell.Tab.0.center" timestamp="1591036555375">
+      <screen x="5760" y="480" width="1920" height="1080" />
+    </state>
+    <state width="1840" height="632" key="GridCell.Tab.0.center/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591021733850" />
+    <state width="1840" height="632" key="GridCell.Tab.0.center/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@5760.480.1920.1080" timestamp="1591036555375" />
+    <state width="1840" height="632" key="GridCell.Tab.0.left" timestamp="1591036555375">
+      <screen x="5760" y="480" width="1920" height="1080" />
+    </state>
+    <state width="1840" height="632" key="GridCell.Tab.0.left/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591021733850" />
+    <state width="1840" height="632" key="GridCell.Tab.0.left/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@5760.480.1920.1080" timestamp="1591036555375" />
+    <state width="1840" height="632" key="GridCell.Tab.0.right" timestamp="1591036555376">
+      <screen x="5760" y="480" width="1920" height="1080" />
+    </state>
+    <state width="1840" height="632" key="GridCell.Tab.0.right/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591021733850" />
+    <state width="1840" height="632" key="GridCell.Tab.0.right/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@5760.480.1920.1080" timestamp="1591036555376" />
+    <state x="2540" y="703" width="770" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591023485639">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2540" y="703" width="770" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591023485639" />
+    <state x="2621" y="829" width="618" height="522" key="find.popup" timestamp="1591031765125">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2621" y="829" width="618" height="522" key="find.popup/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591031765125" />
+    <state x="2593" y="527" width="672" height="678" key="search.everywhere.popup" timestamp="1591027566348">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2593" y="527" width="672" height="678" key="search.everywhere.popup/1920.0.3840.2160/5760.480.1920.1080/0.480.1920.1080@1920.0.3840.2160" timestamp="1591027566348" />
+  </component>
+</project>
